@@ -1,0 +1,22 @@
+Portfolio Website with AI Chatbot:
+Key Skills: Python | FastAPI | Google Gemini API | Sentence Transformers | HTML | CSS | JavaScript | RAG
+- Developed a personal portfolio website featuring an interactive AI chatbot.
+- Implemented the backend using FastAPI, providing a robust and asynchronous API for chatbot interactions.
+- Utilized Google Gemini API for the large language model capabilities, enabling natural language understanding and generation.
+- Integrated a Retrieval-Augmented Generation (RAG) system with Sentence Transformers to provide contextual answers from a custom knowledge base (resume, projects, AI/DS info).
+- Designed a responsive frontend using HTML, CSS, and JavaScript for a seamless user experience.
+- The chatbot answers questions about my professional background, projects, and general AI/Data Science concepts.
+
+Face Mask Detection System:
+- Developed a real-time computer vision model to detect the presence of face masks using deep learning techniques.
+- Preprocessed datasets with tools like OpenCV for enhanced image quality and performance.
+- Trained a convolutional neural network (CNN) model using TensorFlow/Keras to achieve high accuracy.
+- Deployed the model for real-time mask detection through a webcam interface.
+
+Sentiment Analysis on Customer Reviews:
+Key Skills: NLP | Scikit-learn | FastAPI | Python | Streamlit
+- Designed and implemented a comprehensive NLP pipeline to classify customer reviews as positive, neutral, or negative, aiding in customer feedback analysis.
+- Collected and cleaned textual data, performed tokenization, stopword removal, and lemmatization to prepare data for analysis.
+- Extracted features using TF-IDF and trained a Logistic Regression model, achieving 85% accuracy on the test dataset.
+- Developed a REST API using FastAPI for predictions and integrated it with a user-friendly frontend using Streamlit.
+- This project improved my problem-solving skills, enhanced my understanding of end-to-end machine learning workflows.

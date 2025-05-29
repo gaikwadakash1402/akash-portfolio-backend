@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sentence-transformers==2.2.2
+google-generativeai
+numpy==1.26.4

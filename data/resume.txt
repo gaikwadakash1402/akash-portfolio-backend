@@ -1,0 +1,42 @@
+Name: Akash Popat Gaikwad
+Phone: (+91)7498587116
+Email: akashgaikwad1402@gmail.com
+LinkedIn: https://www.linkedin.com/in/akashgaikwad14
+
+Summary: Results-driven and highly motivated fresher with a strong foundation in Python programming and SQL. Possesses a deep understanding of machine learning, deep learning, statistics, natural language processing (NLP), Generative AI and LLM. Possesses excellent analytical skills and a demonstrated ability to solve complex problems. Effective communication skills contribute to collaborative team environments. Eager to apply technical skills and contribute to innovative projects while continuously enhancing knowledge in the dynamic field of technology.
+
+Education:
+Sharad Institute of Technology College of Engineering, Kolhapur
+B.Tech.- Artificial Intelligence and Data Science Engineering (2020-2024), CGPA: 7.5/10.00
+Sharad Science and Commerce College, Kolhapur
+12th HSC (2020), Percentage: 66.77%
+Shri Balaji Madhyamik Vidyalaya, Kolhapur
+10th SSC (2018), Percentage: 90.40%
+
+Work Experience:
+Telus International Pvt Ltd. (Oct 2024-Feb 2025)
+Role: Prompt-Response Writer (WFH)
+Description: Working in Telus Digital as Prompt-Response writer on the Visual Language Model project, which aims to develop high-quality datasets for training a multimodal language model, focusing on enhancing capabilities in the Visual Language Model (VLM) space. Responsibilities include selecting images from textbooks to create unique prompts related to the images, and writing detailed responses.
+
+UV Technocrats Pvt. Ltd, Pune.
+Role: Data Science and AI Trainee (Onsite)
+Description: This experience enhanced my proficiency and skills in Python, Machine Learning and Deep Learning libraries, and data visualization tools.
+
+Projects:
+Equity News Research Tool
+Key Skills: Python, Streamlit, TensorFlow, LangChain, FAISS, Llama 3.1 LLM
+Description: Developed a proof-of-concept application to help financial experts extract and summarize insights from financial news URLs. Implemented tools from LangChain for handling and structuring unstructured financial data. Integrated FAISS vector database for efficient similarity search and real-time information retrieval. Utilized Llama 3.1 LLM for summarization and sentiment analysis, tailored for financial contexts. Deployed streamlit based user-friendly application, showcasing advanced NLP workflows for real-world applications.
+
+Face Mask Detection
+Key Skills: OpenCV, TensorFlow, Python, Flask, Keras, CNN, Streamlit
+Description: Developed a computer vision model to detect the presence of face masks using deep learning techniques. Preprocessed datasets with tools like OpenCV for enhanced image quality and performance. Trained a convolutional neural network (CNN) model using TensorFlow/Keras to achieve high accuracy. Deployed the model for real-time mask detection through a webcam interface.
+
+Sentiment Analysis on Customer Reviews
+Key Skills: NLP Scikit-learn, FastAPI, Python, Streamlit
+Description: Designed and implemented a comprehensive NLP pipeline to classify customer reviews as positive, neutral, or negative, aiding in customer feedback analysis. Collected and cleaned textual data, performed tokenization, stopword removal, and lemmatization to prepare data for analysis. Extracted features using TF-IDF and trained a Logistic Regression model, achieving 85% accuracy on the test dataset. Developed a REST API using FastAPI for predictions and integrated it with a user-friendly frontend using Streamlit. This project improved my problem-solving skills, enhanced my understanding of end-to-end machine learning workflows.
+
+Skills/Expertise:
+Languages: Python, SQL
+Data science & AI: Data Visualization, Supervised & Unsupervised Learning algo, ANN, CNN, NLP, Computer Vision, LLM and GenAI.
+Libraries, packages and Tools: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, Spacy, Gensim, Hugging Face Transformers, Langchain, BeautifulSoup, Streamlit, Ollama.
+Databases: MySQL, MongoDB.

@@ -1,0 +1,19 @@
+Artificial Intelligence (AI): AI is a broad field of computer science that gives computers the ability to perform human-like cognitive functions such as learning, problem-solving, and decision-making.
+
+Machine Learning (ML): ML is a subset of AI that focuses on building systems that can learn from data without being explicitly programmed. It involves algorithms that can identify patterns and make predictions.
+
+Deep Learning (DL): DL is a subset of ML inspired by the structure and function of the human brain (neural networks). It involves training artificial neural networks with many layers on vast amounts of data.
+
+Data Science: Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+
+Supervised Learning: A type of machine learning where the model learns from labeled data, meaning the input data already has the correct output associated with it. Examples: Classification, Regression.
+
+Unsupervised Learning: A type of machine learning where the model learns from unlabeled data, trying to find patterns or structures within the data without any explicit guidance. Examples: Clustering, Dimensionality Reduction.
+
+Natural Language Processing (NLP): NLP is a branch of AI that enables computers to understand, interpret, and generate human language. Applications include sentiment analysis, machine translation, and chatbots.
+
+Computer Vision: Computer Vision is a field of AI that enables computers to "see" and interpret visual information from images and videos. Applications include object detection, facial recognition, and image classification.
+
+Large Language Models (LLM): LLMs are advanced AI models trained on vast amounts of text data to understand, generate, and respond to human language. They excel at tasks like summarization, translation, and conversational AI.
+
+Generative AI (GenAI): Generative AI refers to AI models that can produce new content, such as text, images, audio, and more, that is original and realistic, rather than just classifying or analyzing existing data.

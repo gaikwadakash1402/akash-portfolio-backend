@@ -1,0 +1,15 @@
+# my-portfolio/backend/render.yaml
+services:
+  - type: web
+    name: akash-portfolio-chatbot-backend # <--- CHANGE THIS TO A UNIQUE NAME (e.g., your-github-username-chatbot)
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GOOGLE_API_KEY # This is the environment variable for your API key
+        sync: false # Set to false so you can set its value securely on Render
+      - key: PYTHON_VERSION
+        value: 3.10.13 # Specify a Python version compatible with Render
+    healthCheckPath: /
+    healthCheckInterval: 30s
+    healthCheckTimeout: 10s
